@@ -1,6 +1,6 @@
 package com.flamierd.servletstodolist.servlets;
 
-import com.flamierd.servletstodolist.model.Task;
+import com.flamierd.servletstodolist.models.Task;
 import com.flamierd.servletstodolist.services.TaskService;
 import com.flamierd.servletstodolist.utils.JsonWriter;
 import jakarta.servlet.annotation.WebServlet;

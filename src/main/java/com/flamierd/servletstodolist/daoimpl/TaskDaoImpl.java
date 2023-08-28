@@ -3,7 +3,7 @@ package com.flamierd.servletstodolist.daoimpl;
 import com.flamierd.servletstodolist.dao.TaskDao;
 import com.flamierd.servletstodolist.db.ConnectionManager;
 import com.flamierd.servletstodolist.dto.UpdateTaskDto;
-import com.flamierd.servletstodolist.model.Task;
+import com.flamierd.servletstodolist.models.Task;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

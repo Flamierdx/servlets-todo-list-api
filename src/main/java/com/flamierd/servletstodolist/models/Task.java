@@ -1,4 +1,4 @@
-package com.flamierd.servletstodolist.model;
+package com.flamierd.servletstodolist.models;
 
 public class Task {
     private long id;

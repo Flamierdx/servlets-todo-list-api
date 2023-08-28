@@ -1,6 +1,6 @@
 package com.flamierd.servletstodolist.servlets;
 
-import com.flamierd.servletstodolist.model.HttpExceptionResponse;
+import com.flamierd.servletstodolist.models.HttpExceptionResponse;
 import com.flamierd.servletstodolist.utils.JsonWriter;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.ServletRequest;

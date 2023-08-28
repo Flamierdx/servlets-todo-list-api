@@ -1,7 +1,7 @@
 package com.flamierd.servletstodolist.dao;
 
 import com.flamierd.servletstodolist.dto.UpdateTaskDto;
-import com.flamierd.servletstodolist.model.Task;
+import com.flamierd.servletstodolist.models.Task;
 
 import java.util.List;
 import java.util.Optional;

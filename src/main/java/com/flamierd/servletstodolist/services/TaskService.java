@@ -5,7 +5,7 @@ import com.flamierd.servletstodolist.daoimpl.TaskDaoImpl;
 import com.flamierd.servletstodolist.dto.CreateTaskDto;
 import com.flamierd.servletstodolist.dto.UpdateTaskDto;
 import com.flamierd.servletstodolist.exceptions.HttpException;
-import com.flamierd.servletstodolist.model.Task;
+import com.flamierd.servletstodolist.models.Task;
 import jakarta.servlet.http.HttpServletResponse;
 
 import java.util.List;
